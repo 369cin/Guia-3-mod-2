@@ -1,0 +1,164 @@
+.p1{
+    border-style: dotted;
+}
+.p2{
+    border-style: dotted;
+    border-left-color: red;
+    border-top-color: red;
+    border-right-color: red;
+    border-bottom-color: red;
+}
+.h1{
+    background-color: rgb(65, 201, 225);
+}
+.h2{
+background:rgb(65, 201, 225);
+width: max-content;
+}
+.p3{
+    background-color: rgb(65, 201, 225);
+
+}
+.p4{
+    background-color: rgb(65, 201, 225);
+    padding: 30px;
+}
+.h3{
+    background-color: rgb(65, 201, 225);
+}
+.h4{
+    background-color: rgb(65, 201, 225);
+    height: 100px;
+}
+.p5{
+    background-color: rgb(65, 201, 225);
+}
+.p6{
+    background-color: rgb(65, 201, 225);
+    display: inline-block;
+    width: 150px;
+}
+.p7{
+    background-color: rgb(65, 201, 225);
+    display: inline-block;
+    width: 150px;
+}
+.p8{
+    background-color: rgb(65, 201, 225);
+    display: list-item;
+    width: 150px;
+    padding: 20px;
+}
+.p9{
+    background-color: rgb(65, 201, 225);
+    display: list-item;
+    width: 150px;
+    padding: 20px;
+    border: 10px solid blue;
+}
+.p10{
+    background-color: rgb(65, 201, 225);
+    display: list;
+    width: 150px;
+    padding: 20px;
+    border: 10px solid blue;
+    margin-left: 50px;
+
+}
+.titulo-9{
+    color: blue;
+}
+.p11{
+color: red;
+}
+.titulo-10{
+text-align: center;
+}
+.p12{
+    text-indent: 35px;
+}
+.titulo-12{
+    font-size: 40px;
+}
+.p13{
+font-size: 20px;
+}
+.titulo-13{
+font-family: 'Lucida Sans',
+ 'Lucida Sans Regular',
+  'Lucida Grande', 'Lucida Sans Unicode', 
+  Geneva, Verdana, sans-serif;
+}
+.p14{
+font-family: 'Lucida Sans', 
+'Lucida Sans Regular', 
+'Lucida Grande', 'Lucida Sans Unicode', 
+Geneva, Verdana, sans-serif;
+}
+.p15{
+font-style: italic;
+}
+.titulo-15{
+    font-size: 50px;
+}
+.p16{
+    font-weight: bold;
+}
+.p17{
+    font-size: 20px;
+}
+.titulo-18{
+    padding: 10px 40px;
+    margin: 80px 60px 10px 60px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+
+}
+.titulo-19{
+    text-align: center;
+    border: rgb(65, 201, 225)solid 20px;
+    padding: 10px;
+    margin: 40px 60px;
+    height: 50px;
+    width: 200px;
+
+}
+.titulo-20{  padding: 10px 40px;
+    margin: 80px 60px 10px 60px;
+    height: 25px;
+    width: 150px;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-left: 100px;
+    font-size: 25px;
+}
+.caja {
+    border: rgb(65, 201, 225)solid 20px;
+    padding: 10px;
+    margin: 40px 60px;
+    height: 150px;
+    width:200px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.caja h1{
+    color: seagreen;
+    font-size: 25px;
+    background-color: rgb(65, 201, 225);
+    text-align: center;
+    width: 180px;
+    height: 25px;
+    margin: auto;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 50px;     }
+.caja p{
+    background-color: rgb(65, 201, 225);
+    text-align: center;
+    width: 180px;
+    height: 20px;
+    margin: auto;
+    font-size: 10px;
+}
